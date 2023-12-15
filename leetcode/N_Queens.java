@@ -1,6 +1,6 @@
 import java.util.*;
 
-class N_queens {
+class N_Queens{
 
     public boolean isSafe(int row, int col, char[][] board){
         
